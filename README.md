@@ -1,10 +1,6 @@
-**# Forecasting
-
-
-
 Forecasting Gold Prices using MODEL ARIMA.
 
-In this code i explore using python a dataset from Kaggle about Gold Prices from 1980 to 2019. 
+In this code we explore using python a dataset from Kaggle about Gold Prices from 1980 to 2019. 
 
 Transform, differentiate the **Project Structure
 
